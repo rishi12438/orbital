@@ -14,9 +14,5 @@ In Singapore, the elderly population is increasing and by 2050 it is estimated t
 
 Our app aims to also help the patients after their consultation as we let them see their prescription and also allow their care takers or themselves to take a picture of the medicine and get the dosage, frequency and the name of the medicine. It also gives a verbal dictation to help patients who have eye problems. 
 
-## Software Architecture 
 
-<p align = "center"> 
 
-    <img src="readme_src/photo_1.jpg" alt="Example of an elderly patient visting the doctor" height="=400" width="400">
-</p>
