@@ -5,7 +5,7 @@ This project uses Speech to Text, Natural language Process, Transfer Deep Learni
 Team members:  Rishi Mahadevan (backend engineer) ,Marc Phua (frontend developer) 
 
 <p align = "center">
-    <img src="readme_src/photo_1.jpg" alt="Example of an elderly patient visting the doctor" height="=400" width="400">
+    <img src="readme_src/software_arch.jpg" alt="Example of an elderly patient visting the doctor" height="=400" width="400">
 </p>
 
 ## Introduction
