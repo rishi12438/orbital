@@ -18,5 +18,5 @@ Our app aims to also help the patients after their consultation as we let them s
 
 <p alighn = "center"> 
 
-	<img src= "readme_src/software_arch.jpg" width = "400" height = "400"> 
+    <img src="readme_src/software_arch.jpg" alt="Example of an elderly patient visting the doctor" height="=400" width="400">
 </p>
