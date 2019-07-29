@@ -16,7 +16,7 @@ Our app aims to also help the patients after their consultation as we let them s
 
 ## Software Architecture 
 
-<p alighn = "center"> 
+<p align = "center"> 
 
     <img src="readme_src/photo_1.jpg" alt="Example of an elderly patient visting the doctor" height="=400" width="400">
 </p>
