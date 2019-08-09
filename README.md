@@ -2,7 +2,7 @@
 
 This project uses Speech to Text, Natural language Process, Transfer Deep Learning, and Artificial Intelligence to detect symptoms from the patient's speech and then display this to the Doctor in a dashboard where they can prescribe medicines based on their previous visits and medication. This app aims to streamline the process and make it easier for both the patients and the doctors.  
 
-Team members:  Rishi Mahadevan (backend engineer) ,Marc Phua (frontend developer) 
+Team members:  Rishi Mahadevan (Backend Engineer), Marc Phua (Frontend Developer) 
 
 <p align = "center">
     <img src="readme_src/software_arch.jpg" alt="Example of an elderly patient visting the doctor" height="=400" width="400">
