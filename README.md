@@ -14,5 +14,9 @@ In Singapore, the elderly population is increasing and by 2050 it is estimated t
 
 Our app aims to also help the patients after their consultation as we let them see their prescription and also allow their care takers or themselves to take a picture of the medicine and get the dosage, frequency and the name of the medicine. It also gives a verbal dictation to help patients who have eye problems. 
 
+# Speech To Text
+
+We used Swift API to configure an audio session and directly transcribe speech to text and sent it over an API to the backend to run Natural Language Processing.
+
 
 
